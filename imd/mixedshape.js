@@ -102,7 +102,4 @@ function draw() {
   matterObjs.forEach((obj) => {
     obj.render();
   });
-  // matterObjs.forEach((obj) => {
-  //   obj.renderDirVector();
-  // });
 }
